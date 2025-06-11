@@ -1,0 +1,1 @@
+# decola-tech-2025-fullstack-barber-shop-app
